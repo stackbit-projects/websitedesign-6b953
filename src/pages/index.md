@@ -71,7 +71,7 @@ sections:
     title: Testimonials
     subtitle: ''
     reviews:
-      - author: John Doe
+      - author: AJSHydroponics
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
