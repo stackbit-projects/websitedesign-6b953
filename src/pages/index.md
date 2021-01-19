@@ -92,7 +92,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Hosting Packages
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We offer managed web hosting to our clients with free SSL certificates.
     actions:
       - label: Get Started
         url: /signup
