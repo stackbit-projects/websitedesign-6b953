@@ -7,8 +7,10 @@ sections:
     image_alt: App preview
     title: 'Fast, Secure & Scalable Website Design'
     content: >
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      We build your websites to a professional standard, we always keep secuirty
+      in mind when we design your website thats why when your buy a webdesign
+      package from us we will include and configure a free SSL certificate for
+      you to help secure your website online.
     actions:
       - label: Learn More
         url: /features
